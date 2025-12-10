@@ -67,4 +67,4 @@ Freedom of Action • Joint Effectiveness • Independent Strategic Options • 
 
 ---
 
-**Contato:** [rmilhomem@gmail.com](mailto:rmilhomem@gmail.com)
+
