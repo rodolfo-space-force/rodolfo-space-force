@@ -18,7 +18,9 @@ Minha formação é multidisciplinar: curso Engenharia da Computação (Univesp)
 
 Tenho experiência em Python, Monte Carlo, SNAP (EO), integração COTS, C++, labview e segurança digital para ambientes críticos.
 
-Capacitado em governança de inovação, licenciamento open-source (WIPO DL‑511), estratégias de PI (USPTO/Penn Law), e diretrizes internacionais como as Long-Term Sustainability Guidelines (COPUOS). Atuo também com economia espacial (UNOOSA) e análise jurídica de tecnologias dual-use, contribuindo para o fortalecimento das bases normativas da indústria espacial brasileira.
+Capacitado em governança de inovação, licenciamento open-source (WIPO DL‑511), estratégias de PI (USPTO/Penn Law), e diretrizes internacionais como as Long-Term Sustainability Guidelines (COPUOS). 
+
+Atuo também com economia espacial (UNOOSA) com registro de satélites e análise jurídica de tecnologias dual-use, contribuindo para o fortalecimento das bases normativas da indústria espacial brasileira.
 
 (Space Force-aligned):
 Freedom of Action • Joint Effectiveness • Independent Strategic Options • Space Security • Space Domain Awareness (SDA) • Cyber Operations • Orbital Systems • Space Mobility & Logistics • Information Superiority • Lawfare • Dual-use Governance • Engineering/Acquisitions • NewSpace • Remote Sensing • Cognitive Domain • Monte Carlo Simulation • Embedded Systems • Command & Control • Brazilian Space Program
