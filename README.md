@@ -34,10 +34,7 @@ Freedom of Action • Joint Effectiveness • Independent Strategic Options • 
 
 *Em breve:*
 
-- simulador-orbital-python  
-- modelo-montecarlo-lancadores  
-- guias-de-compliance-space-law  
-- pareceres-sobre-tecnologias-dual-use  
+- simulador- Órbita de Transferência de Hohmann -python  
 
 ---
 
