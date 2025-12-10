@@ -8,12 +8,14 @@
 
 ## Sobre mim
 
-Atuo há mais de 5 anos como DPO e advogado especializado em propriedade intelectual, proteção de dados (LGPD/GDPR) e regulação de tecnologias críticas. Desenvolvo e acompanho projetos que integram:
+Sou advogado e DPO certificado atuando há mais de 5 anos na EdgeSoft, empresa de tecnologia onde lidero iniciativas estratégicas em proteção de dados (LGPD/GDPR), propriedade intelectual (INPI/WIPO) e contratos tecnológicos. Tenho mestrado em Ciências Aeroespaciais pela UNIFA, com a dissertação “Programa Espacial Brasileiro: o Brasil no Segmento de Veículos Lançadores”, abordando marcos legais, desafios industriais, econômicos e cooperação internacional na construção de uma soberania nacional em acesso ao espaço.
 
-- Direito Espacial (COPUOS, WIPO, UNOOSA)  
-- Engenharia embarcada e orbital (COTS, SNAP, Monte Carlo)  
-- Compliance em tecnologias dual-use  
-- Segurança cibernética aplicada a sistemas aeroespaciais  
+Atuo nas Comissões de Direito Espacial e Aeronáutico da OAB/SP, promovendo a interseção entre regulação e inovação no setor aeroespacial. Minha formação é multidisciplinar: curso Engenharia da Computação (Univesp) e especialização em Engenharia Aeronáutica (Unisuam), com foco em sistemas embarcados, simulação e trajetória de foguetes, propulsão, e tecnologias de previsões orbitais. Tenho experiência em Python, Monte Carlo, SNAP (EO), integração COTS e segurança digital para ambientes críticos.
+
+Capacitado em governança de inovação, licenciamento open-source (WIPO DL‑511), estratégias de PI (USPTO/Penn Law), e diretrizes internacionais como as Long-Term Sustainability Guidelines (COPUOS). Atuo também com economia espacial (UNOOSA) e análise jurídica de tecnologias dual-use, contribuindo para o fortalecimento das bases normativas da indústria espacial brasileira.
+
+(Space Force-aligned):
+Freedom of Action • Joint Effectiveness • Independent Strategic Options • Space Security • Space Domain Awareness (SDA) • Cyber Operations • Orbital Systems • Space Mobility & Logistics • Information Superiority • Lawfare • Dual-use Governance • Engineering/Acquisitions • NewSpace • Remote Sensing • Cognitive Domain • Monte Carlo Simulation • Embedded Systems • Command & Control • Brazilian Space Program
 
 ---
 
