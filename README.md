@@ -14,6 +14,8 @@ Tenho mestrado em Ciências Aeroespaciais pela UNIFA, com a dissertação “Pro
 
 Atuo nas Comissões de Direito Espacial e Aeronáutico da OAB/SP, promovendo a interseção entre regulação e inovação no setor aeroespacial. 
 
+ ## Entusiasta de Blockchain
+
 Minha formação é multidisciplinar: curso Engenharia da Computação (Univesp) e especialização em Engenharia Aeronáutica (Unisuam), com foco em sistemas embarcados, simulação e trajetória de foguetes, propulsão, e tecnologias de previsões orbitais. 
 
 Tenho experiência em Python, Monte Carlo, SNAP (EO), integração COTS, C++, labview e segurança digital para ambientes críticos.
