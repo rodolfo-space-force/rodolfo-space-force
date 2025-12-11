@@ -1,6 +1,6 @@
 # Rodolfo Milhomem, M.Sc
 
-**MSc in Aerospace Sciences (Launch Vehicles & Space Law) | Lawyer (IP, DPO, Dual-Use) | Aerospace Engineering & Simulation | Monte Carlo Methods | Orbital Systems & Cybersecurity | Space Domain Strategy**
+**MSc in Aerospace Sciences (Launch Vehicles & Space Law) | Lawyer (IP, DPO, Dual-Use agreements) | Aerospace Engineering & Simulation | Monte Carlo Methods | Orbital Systems & Cybersecurity | Space Domain Strategy**
 
 [LinkedIn](https://www.linkedin.com/in/rodolfo-space-force) | [Email](mailto:rmilhomem@gmail.com)
 
