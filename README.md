@@ -74,5 +74,13 @@ Freedom of Action • Joint Effectiveness • Independent Strategic Options • 
 
 ---
 
-- LinkedIn: [linkedin.com/in/rodolfo-space-force](https://linkedin.com/in/rodolfo-space-force)
-- GitHub: [github.com/rodolfo-space-force](https://github.com/rodolfo-space-force)
+| Projeto | Descrição | Linguagem |
+|--------|------------|-----------|
+| [`NORAD-TLE-two-line-element-set`](https://github.com/rodolfo-space-force/NORAD-TLE-two-line-element-set-format) | Leitor e interpretador de TLEs do NORAD | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`laser-daq-labview`](https://github.com/rodolfo-space-force/laser-daq-labview) | Controle de laser com interface gráfica em LabVIEW e DAQmx | ![LabVIEW](https://img.shields.io/badge/-LabVIEW-yellow) |
+| [`ataque_satoshi_poisson`](https://github.com/rodolfo-space-force/ataque_satoshi_poisson) | Simulação probabilística de ataque à blockchain (baseado em Satoshi) | ![C++](https://img.shields.io/badge/-C++-blue) |
+| [`polar_de_arrasto`](https://github.com/rodolfo-space-force/polar_de_arrasto) | Cálculo da polar de arrasto para aeronaves leves subsônicas | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`mirach-100-5-launch-simulation`](https://github.com/rodolfo-space-force/mirach-100-5-launch-simulation) | Simulação de lançamento do drone-alvo italiano Mirach 100/5 | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`BTC_Adress_Brute_force`](https://github.com/rodolfo-space-force/BTC_Adress_Brute_force) | Brute-force e correção de endereços Bitcoin com até 2 caracteres corrompidos | ![Python](https://img.shields.io/badge/-Python-informational) |
+
+
