@@ -74,4 +74,5 @@ Freedom of Action • Joint Effectiveness • Independent Strategic Options • 
 
 ---
 
-
+- LinkedIn: [linkedin.com/in/rodolfo-space-force](https://linkedin.com/in/rodolfo-space-force)
+- GitHub: [github.com/rodolfo-space-force](https://github.com/rodolfo-space-force)
