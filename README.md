@@ -40,14 +40,6 @@ Freedom of Action • Joint Effectiveness • Independent Strategic Options • 
 
 ---
 
-## Repositórios em destaque
-
-*Em breve:*
-
-- simulador- Órbita de Transferência de Hohmann -python  
-
----
-
 ## Dissertação
 
 **Título:** Programa Espacial Brasileiro: o Brasil no Segmento de Veículos Lançadores  
