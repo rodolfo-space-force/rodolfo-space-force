@@ -74,13 +74,23 @@ Freedom of Action • Joint Effectiveness • Independent Strategic Options • 
 
 ---
 
-| Projeto | Descrição | Linguagem |
+## 🛰️ Repositórios em Destaque
+
+| Projetos | Descrição | Linguagem |
 |--------|------------|-----------|
-| [`NORAD-TLE-two-line-element-set`](https://github.com/rodolfo-space-force/NORAD-TLE-two-line-element-set-format) | Leitor e interpretador de TLEs do NORAD | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`NORAD-TLE-two-line-element-set-format`](https://github.com/rodolfo-space-force/NORAD-TLE-two-line-element-set-format) | Leitor e interpretador de TLEs do NORAD (Two-Line Element Set) | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`ataque_satoshi_poisson`](https://github.com/rodolfo-space-force/ataque_satoshi_poisson) | Simulação de ataque reversivo à blockchain, baseado no paper de Satoshi Nakamoto | ![C++](https://img.shields.io/badge/-C++-blue) |
+| [`rodolfo-space-force`](https://github.com/rodolfo-space-force/rodolfo-space-force) | Portfólio técnico e jurídico com foco em engenharia, inovação e direito espacial | ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey) |
 | [`laser-daq-labview`](https://github.com/rodolfo-space-force/laser-daq-labview) | Controle de laser com interface gráfica em LabVIEW e DAQmx | ![LabVIEW](https://img.shields.io/badge/-LabVIEW-yellow) |
-| [`ataque_satoshi_poisson`](https://github.com/rodolfo-space-force/ataque_satoshi_poisson) | Simulação probabilística de ataque à blockchain (baseado em Satoshi) | ![C++](https://img.shields.io/badge/-C++-blue) |
-| [`polar_de_arrasto`](https://github.com/rodolfo-space-force/polar_de_arrasto) | Cálculo da polar de arrasto para aeronaves leves subsônicas | ![Python](https://img.shields.io/badge/-Python-informational) |
-| [`mirach-100-5-launch-simulation`](https://github.com/rodolfo-space-force/mirach-100-5-launch-simulation) | Simulação de lançamento do drone-alvo italiano Mirach 100/5 | ![Python](https://img.shields.io/badge/-Python-informational) |
-| [`BTC_Adress_Brute_force`](https://github.com/rodolfo-space-force/BTC_Adress_Brute_force) | Brute-force e correção de endereços Bitcoin com até 2 caracteres corrompidos | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`Drag-coefficient-Kd-155-MM-SHELL`](https://github.com/rodolfo-space-force/Drag-coefficient-Kd-155-MM-SHELL) | Cálculo do coeficiente de arrasto (Kᴅ) para projétil de 155 mm HE M101 | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`pressao-detonacao-shockwave`](https://github.com/rodolfo-space-force/pressao-detonacao-shockwave) | Cálculo da pressão de detonação por onda de choque (Shockwave) | ![C++](https://img.shields.io/badge/-C++-blue) |
+| [`azimute_napier`](https://github.com/rodolfo-space-force/azimute_napier) | Cálculo do azimute de lançamento de veículos orbitais com base em latitude e inclinação | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`airplane_cg_location`](https://github.com/rodolfo-space-force/airplane_cg_location) | Manifesto de peso e balanceamento para Cessna 152 com base no DATUM | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`polar_de_arrasto`](https://github.com/rodolfo-space-force/polar_de_arrasto) | Traçado da curva polar de arrasto para aeronaves leves subsônicas | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`BTC_Adress_Brute_force`](https://github.com/rodolfo-space-force/BTC_Adress_Brute_force) | Brute-force para recuperação de endereços Bitcoin com até 2 caracteres corrompidos | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`ponto_de_estagnacao`](https://github.com/rodolfo-space-force/ponto_de_estagnacao) | Estimativa de carga térmica em pontos de estagnação da coifa do VLS-1 | ![C++](https://img.shields.io/badge/-C++-blue) |
+| [`transferencia_de_Hohmann`](https://github.com/rodolfo-space-force/transferencia_de_Hohmann) | Visualização gráfica da transferência orbital de Hohmann | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`mirach-100-5-launch-simulation`](https://github.com/rodolfo-space-force/mirach-100-5-launch-simulation) | Simulação do lançamento do drone-alvo italiano Mirach 100/5 | ![Python](https://img.shields.io/badge/-Python-informational) |
+
 
 
