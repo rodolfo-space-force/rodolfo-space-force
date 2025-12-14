@@ -83,6 +83,7 @@ Freedom of Action • Joint Effectiveness • Independent Strategic Options • 
 | [`ponto_de_estagnacao`](https://github.com/rodolfo-space-force/ponto_de_estagnacao) | Estimativa de carga térmica em pontos de estagnação da coifa do VLS-1 | ![C++](https://img.shields.io/badge/-C++-blue) |
 | [`transferencia_de_Hohmann`](https://github.com/rodolfo-space-force/transferencia_de_Hohmann) | Visualização gráfica da transferência orbital de Hohmann | ![Python](https://img.shields.io/badge/-Python-informational) |
 | [`mirach-100-5-launch-simulation`](https://github.com/rodolfo-space-force/mirach-100-5-launch-simulation) | Simulação do lançamento do drone-alvo italiano Mirach 100/5 | ![Python](https://img.shields.io/badge/-Python-informational) |
+| [`giroscopio`](https://github.com/rodolfo-space-force/giroscopio) | Horizonte artificial de uma aeronave (Giroscópio). | ![Python](https://img.shields.io/badge/-Python-informational) |
 
 
 
