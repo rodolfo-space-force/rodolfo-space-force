@@ -8,17 +8,16 @@
 
 ## Sobre mim
 
-Sou advogado e DPO atuando há mais de 5 anos na EdgeSoft, empresa de tecnologia onde lidero iniciativas estratégicas em proteção de dados (LGPD/GDPR), propriedade intelectual (INPI/WIPO) e contratos tecnológicos. 
-
 Tenho mestrado em Ciências Aeroespaciais pela UNIFA, com a dissertação “Programa Espacial Brasileiro: o Brasil no Segmento de Veículos Lançadores”, abordando marcos legais, desafios industriais, econômicos e cooperação internacional na construção de uma soberania nacional em acesso ao espaço.
 
 Atuo nas Comissões de Direito Espacial e Aeronáutico da OAB/SP, promovendo a interseção entre regulação e inovação no setor aeroespacial. 
+Sou advogado e DPO atuando há mais de 5 anos na EdgeSoft, empresa de tecnologia onde lidero iniciativas estratégicas em proteção de dados (LGPD/GDPR), propriedade intelectual (INPI/WIPO) e contratos tecnológicos. 
 
 Entusiasta de Blockchain.
 
 Minha formação é multidisciplinar: curso Engenharia da Computação (Univesp) e pósgraduacao (latu-sensu) em Engenharia Aeronáutica (Unisuam), com foco em simulação e trajetória de foguetes e satélites, propulsão, e tecnologias de previsões orbitais. 
 
-Tenho experiência em Python, Monte Carlo, SNAP (EO), integração COTS, C++, labview e segurança digital para ambientes críticos.
+Tenho experiência em Python, Monte Carlo, SNAP (EO), data acquisition systems, C++, labview e segurança digital para ambientes críticos.
 
 Capacitado em governança de inovação, licenciamento open-source (WIPO DL‑511), estratégias de PI (USPTO/Penn Law), e diretrizes internacionais como as Long-Term Sustainability Guidelines (COPUOS). 
 
