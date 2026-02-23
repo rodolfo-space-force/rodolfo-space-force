@@ -6,53 +6,61 @@
 
 ---
 
-## Sobre mim
 
-Tenho mestrado em Ciências Aeroespaciais pela UNIFA, com a dissertação “Programa Espacial Brasileiro: o Brasil no Segmento de Veículos Lançadores”, abordando marcos legais, desafios industriais, econômicos e cooperação internacional na construção de uma soberania nacional em acesso ao espaço.
 
-Atuo nas Comissões de Direito Espacial e Aeronáutico da OAB/SP, promovendo a interseção entre regulação e inovação no setor aeroespacial. 
-Sou advogado e DPO atuando há mais de 5 anos na EdgeSoft, empresa de tecnologia onde lidero iniciativas estratégicas em proteção de dados (LGPD/GDPR), propriedade intelectual (INPI/WIPO) e contratos tecnológicos. 
+## About Me
 
-Entusiasta de Blockchain.
+I hold a Master’s degree in Aerospace Sciences from the Brazilian Air Force University (UNIFA). My thesis, “The Brazilian Space Program: Brazil in the Launch Vehicle Segment,” examined the legal framework, industrial and economic challenges, and international cooperation strategies involved in building national sovereignty in access to space.
 
-Minha formação é multidisciplinar: curso Engenharia da Computação (Univesp) e pósgraduacao (latu-sensu) em Engenharia Aeronáutica (Unisuam), com foco em simulação e trajetória de foguetes e satélites, propulsão, e tecnologias de previsões orbitais. 
+I serve on the Space Law and Aeronautical Law Commissions of the São Paulo Bar Association (OAB/SP), promoting the intersection between regulation and innovation within the aerospace sector. I am an attorney and Data Protection Officer (DPO) with over five years of experience at EdgeSoft, a technology company where I lead strategic initiatives in data protection (LGPD/GDPR compliance), intellectual property (INPI/WIPO), and technology contracts.
 
-Tenho experiência em Python, Monte Carlo, SNAP (EO), data acquisition systems, C++, labview e segurança digital para ambientes críticos.
+Blockchain enthusiast.
 
-Capacitado em governança de inovação, licenciamento open-source (WIPO DL‑511), estratégias de PI (USPTO/Penn Law), e diretrizes internacionais como as Long-Term Sustainability Guidelines (COPUOS). 
+My background is multidisciplinary: I am currently pursuing a degree in Computer Engineering (Univesp) and a postgraduate (lato sensu) specialization in Aeronautical Engineering (Unisuam), focusing on rocket and satellite trajectory simulation, propulsion systems, and orbital prediction technologies.
 
-Atuo também com economia espacial (UNOOSA) com registro de satélites e análise jurídica de tecnologias dual-use, contribuindo para o fortalecimento das bases normativas da indústria espacial brasileira.
+I have hands-on experience in Python, Monte Carlo methods, SNAP (Earth Observation), data acquisition systems, C++, LabVIEW, and cybersecurity for critical environments.
 
-(Space Force-aligned):
-Freedom of Action • Joint Effectiveness • Independent Strategic Options • Space Security • Space Domain Awareness (SDA) • Cyber Operations • Orbital Systems • Space Mobility & Logistics • Information Superiority • Lawfare • Dual-use Governance • Engineering/Acquisitions • NewSpace • Remote Sensing • Cognitive Domain • Monte Carlo Simulation • Embedded Systems • Command & Control • Brazilian Space Program
+I am trained in innovation governance, open-source licensing (WIPO DL-511), intellectual property strategy (USPTO/Penn Law), and international regulatory frameworks such as the Long-Term Sustainability Guidelines (COPUOS).
 
----
+I also work with space economy topics (UNOOSA), including satellite registration processes and legal analysis of dual-use technologies, contributing to the strengthening of the regulatory foundations of the Brazilian space industry.
 
-## Áreas de Interesse
+Strategic & Technical Focus Areas
 
-- Governança de tecnologias sensíveis (dual-use, LGPD, Space Law)  
-- Simulação e modelagem de trajetórias orbitais  
-- Métodos de Monte Carlo aplicados a missões espaciais  
-- Cibersegurança para ambientes críticos  
-- Regulação jurídica internacional do espaço  
-- Inteligência jurídica aplicada à inovação tecnológica  
+(Space Force–aligned framework)
 
----
+Freedom of Action • Joint Effectiveness • Independent Strategic Options • Space Security • Space Domain Awareness (SDA) • Cyber Operations • Orbital Systems • Space Mobility & Logistics • Information Superiority • Lawfare • Dual-use Governance • Engineering & Acquisitions • NewSpace • Remote Sensing • Cognitive Domain • Monte Carlo Simulation • Embedded Systems • Command & Control • Brazilian Space Program
 
-## Dissertação
+## Areas of Interest
 
-**Título:** Programa Espacial Brasileiro: o Brasil no Segmento de Veículos Lançadores  
-**Instituição:** Universidade da Força Aérea (UNIFA)  
-**Resumo:** Análise jurídico-estratégica sobre o desenvolvimento nacional de lançadores espaciais, abordando marcos legais, desafios industriais, econômicos e cooperação internacional para a construção de uma soberania nacional no acesso ao espaço.
+Governance of sensitive technologies (dual-use, data protection, Space Law)
 
----
+Orbital trajectory simulation and modeling
 
-## Certificações relevantes
+Monte Carlo methods applied to space missions
 
-- WIPO DL-511 – Licenciamento Open Source  
-- USPTO & Penn Law – Estratégias de Propriedade Intelectual  
-- AEB/MCTI – Propulsão Espacial I e II  
-- Harvard – Computer Science for Lawyers (CS50)
+Cybersecurity for critical infrastructures
+
+International space regulatory frameworks
+
+Legal intelligence applied to technological innovation
+
+Master’s Thesis
+
+Title: The Brazilian Space Program: Brazil in the Launch Vehicle Segment
+Institution: Brazilian Air Force University (UNIFA)
+
+## Abstract:
+A legal-strategic analysis of the national development of space launch vehicles, examining regulatory frameworks, industrial and economic challenges, and international cooperation mechanisms required to establish sovereign national access to space.
+
+## Relevant Certifications
+
+WIPO DL-511 – Open Source Licensing
+
+USPTO & Penn Law – Intellectual Property Strategy
+
+AEB/MCTI – Space Propulsion I & II
+
+Harvard University – Computer Science for Lawyers (CS50)
 
 ---
 
