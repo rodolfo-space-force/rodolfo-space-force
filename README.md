@@ -48,9 +48,8 @@ LabVIEW (DAQ systems)
 
 ## Academic Background
 
-M.Sc. Aerospace Sciences – UNIFA  
-Thesis: Launch Vehicle Development & National Strategic Access to Space  
-
+M.Sc. Aerospace Sciences – Brazilian Air Force - UNIFA  
+Bachelor of Laws (LL.B.)  
 Computer Engineering (in progress)  
 Postgraduate Specialization in Aeronautical Engineering  
 
